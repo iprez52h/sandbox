@@ -2,6 +2,10 @@
  Click on any link below to start downloading directly.
 
 
+### 📅 2026-05-12 17:19 (IR Time)
+- 📥 **[mhrv-rs-android-arm64-v8a-v1.9.23.apk](https://github.com/iprez52h/sandbox/raw/main/dl/mhrv-rs-android-arm64-v8a-v1.9.23.apk)**
+
+
 ### 📅 2026-05-09 20:09 (IR Time)
 - 📥 **[v2rayNG_2.1.6-fdroid_arm64-v8a.apk](https://github.com/iprez52h/sandbox/raw/main/dl/v2rayNG_2.1.6-fdroid_arm64-v8a.apk)**
 
