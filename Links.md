@@ -2,6 +2,10 @@
  Click on any link below to start downloading directly.
 
 
+### 📅 2026-05-12 18:50 (IR Time)
+- 📥 **[vless-config-creator-v2.0.0.rar](https://github.com/iprez52h/sandbox/raw/main/dl/vless-config-creator-v2.0.0.rar)**
+
+
 ### 📅 2026-05-12 17:19 (IR Time)
 - 📥 **[mhrv-rs-android-arm64-v8a-v1.9.23.apk](https://github.com/iprez52h/sandbox/raw/main/dl/mhrv-rs-android-arm64-v8a-v1.9.23.apk)**
 
