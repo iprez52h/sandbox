@@ -2,6 +2,10 @@
  Click on any link below to start downloading directly.
 
 
+### 📅 2026-05-17 04:06 (IR Time)
+- 📥 **[v2rayNG_2.1.7-fdroid_arm64-v8a.apk](https://github.com/iprez52h/sandbox/raw/main/dl/v2rayNG_2.1.7-fdroid_arm64-v8a.apk)**
+
+
 ### 📅 2026-05-12 18:50 (IR Time)
 - 📥 **[vless-config-creator-v2.0.0.rar](https://github.com/iprez52h/sandbox/raw/main/dl/vless-config-creator-v2.0.0.rar)**
 
